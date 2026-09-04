@@ -1,11 +1,13 @@
 about:
-  description: Interactive ASCII art diagram generators. :star2:
+  description:
+  |
+    Interactive ASCII art diagram generators. :star2:
   license: MIT
   homepage: https://arthursonzogni.com/Diagon/
   head: 18dbc8a
   archived: false
   latestVersion: v1.1.158
-  collectedAt: 2026-09-04T04:22:50Z
+  collectedAt: 2026-09-04T19:34:07Z
 timeline:
   created: 2018-01-22
   lastCommit: 2025-05-16
@@ -16,7 +18,7 @@ popularity:
   fork: 78
   release: 3
   contributor: 12
-  pullRequest: 2
+  pullRequest: 33
   issue: 47
 language:
   C++: 203257
@@ -27,10 +29,18 @@ language:
   Dockerfile: 565
   Shell: 466
   C: 92
-totalLine: 246667
+totalBytes: 246667
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -61,3 +71,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 2
+    openPR: 1
+    closedIssue: 0
+    openIssue: 3
+    commit: 3
+total:
+  release: 3
+  mergedPR: 31
+  openPR: 1
+  closedIssue: 27
+  openIssue: 20
+  commit: 175
+---
+---
+
