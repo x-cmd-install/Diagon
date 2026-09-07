@@ -5,13 +5,13 @@ about:
   head: 18dbc8a
   archived: false
   latestVersion: "v1.1.158"
-  collectedAt: 2026-09-07T04:58:16Z
+  collectedAt: 2026-09-07T19:24:56Z
 timeline:
   created: 2018-01-22
   lastCommit: 2025-05-16
   lastRelease: 2023-05-08
 popularity:
-  star: 2222
+  star: 2223
   watcher: 13
   fork: 78
   release: 3
@@ -86,7 +86,7 @@ total:
   commit: 175
 ---
 path: /home/runner/.x-repo/github.com/ArthurSonzogni/Diagon
-collectedAt: 2026-09-07T04:58:17Z
+collectedAt: 2026-09-07T19:24:57Z
 loc:
   Cpp:
     code: 5675
@@ -152,7 +152,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:58:18+00:00
+  collectedAt: 2026-09-07T19:24:58+00:00
   platform:
     darwin/arm64:
       name:  diagon-1.1.156-Darwin.zip
