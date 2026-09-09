@@ -7,7 +7,7 @@ Interactive ASCII art diagram generators. :star2:
 - **Latest release**: `v1.1.158` (2023-05-08)
 - **Last commit**: 2025-05-16
 - **License**: MIT
-- **Stars**: 2223 · **Forks**: 78 · **Open issues**: 47 · **Contributors**: 12
+- **Stars**: 2222 · **Forks**: 78 · **Open issues**: 47 · **Contributors**: 12
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/Diagon> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:04:34Z._
+_Last regenerated: 2026-09-09T19:24:06Z._
