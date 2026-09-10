@@ -4,13 +4,25 @@
 
 Interactive ASCII art diagram generators. :star2:
 
-![Diagon](https://repo.x-cmd.io/Diagon.svg)
+![Diagon](https://repo.x-cmd.io/Diagon.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install Diagon
 ```
+
+## 代码洞察
+
+合计: **6,883** 行代码（覆盖前 5 种语言、共 **43** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Cpp | 5,675 | 422 | 891 | 21 |
+| Css | 449 | 15 | 91 | 1 |
+| CMake | 335 | 37 | 54 | 14 |
+| CppHeader | 172 | 14 | 42 | 5 |
+| Html | 91 | 12 | 20 | 2 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install Diagon
 - **最新版本**: `v1.1.158` (2023-05-08)
 - **最近提交**: 2025-05-16
 - **Release 含资产**: 17 个
-- **发布时间**: 2023-05-08T18:35:03Z
 
 ## 流行度
 
@@ -38,20 +49,33 @@ x install Diagon
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 2 | 1 | 0 | 3 | 3 |
 
-## 代码规模
+## Release 资产
 
-合计: **6,883** 行代码（覆盖前 5 种语言、共 **43** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Cpp | 5,675 | 422 | 891 | 21 |
-| Css | 449 | 15 | 91 | 1 |
-| CMake | 335 | 37 | 54 | 14 |
-| CppHeader | 172 | 14 | 42 | 5 |
-| Html | 91 | 12 | 20 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [diagon-1.1.156-Darwin.dmg](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Darwin.dmg) | 612.1 KiB | `native/darwin/x64` |
+| [diagon-1.1.156-Darwin.tar.gz](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Darwin.tar.gz) | 599.3 KiB | `native/darwin/x64` |
+| [diagon-1.1.156-Darwin.zip](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Darwin.zip) | 599.8 KiB | `native/darwin/x64` |
+| [diagon-1.1.156-Linux.deb](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.deb) | 706.7 KiB | `other` |
+| [diagon-1.1.156-Linux.json](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.json) | 1.6 KiB | `other` |
+| [diagon-1.1.156-Linux.rpm](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.rpm) | 709.1 KiB | `other` |
+| [diagon-1.1.156-Linux.sh](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.sh) | 711.1 KiB | `other` |
+| [diagon-1.1.156-Linux.tar.bz2](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.tar.bz2) | 645.9 KiB | `other` |
+| [diagon-1.1.156-Linux.tar.gz](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.tar.gz) | 706.2 KiB | `native/unknown` |
+| [diagon-1.1.156-Linux.tar.xz](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.tar.xz) | 515.5 KiB | `other` |
+| [diagon-1.1.156-Linux.tar.Z](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.tar.Z) | 1020.9 KiB | `other` |
+| [diagon-1.1.156-Linux.tar.zst](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.tar.zst) | 688.1 KiB | `other` |
+| [diagon-1.1.156-Linux.zip](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.zip) | 706.5 KiB | `other` |
+| [diagon-1.1.156-win64.deb](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-win64.deb) | 1.3 MiB | `native/win/x64` |
+| [diagon-1.1.156-win64.tar.gz](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-win64.tar.gz) | 1.3 MiB | `native/win/x64` |
+| [diagon-1.1.156-win64.zip](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-win64.zip) | 1.3 MiB | `native/win/x64` |
+| [diagon-Web.zip](https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-Web.zip) | 392.0 KiB | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +86,4 @@ Diagon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:00:53Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:56:51Z._
