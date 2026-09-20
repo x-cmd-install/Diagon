@@ -4,7 +4,7 @@
 
 Interactive ASCII art diagram generators. :star2:
 
-![Diagon](https://repo.x-cmd.io/Diagon.svg)
+[![x-cmd/install — Diagon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Diagon.svg)](https://x-cmd.com/install/Diagon)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **6,883** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,221 · **Forks**: 78 · **Open issues**: 47 · **Contributors**: 12
+- **Stars**: 2,222 · **Forks**: 78 · **Open issues**: 47 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **6,883** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 0 | 2 | 1 | 0 | 3 | 3 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 0 | 2 | 1 | 0 | 3 | 3 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for Diagon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:07:51Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:32:01Z._
