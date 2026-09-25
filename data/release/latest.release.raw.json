@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 613691,
       "digest": null,
-      "download_count": 1193,
+      "download_count": 1194,
       "created_at": "2023-05-08T18:34:51Z",
       "updated_at": "2023-05-08T18:34:52Z",
       "browser_download_url": "https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Darwin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 661438,
       "digest": null,
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2023-05-08T18:25:04Z",
       "updated_at": "2023-05-08T18:25:04Z",
       "browser_download_url": "https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.tar.bz2"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 723098,
       "digest": null,
-      "download_count": 15120,
+      "download_count": 15121,
       "created_at": "2023-05-08T18:25:04Z",
       "updated_at": "2023-05-08T18:25:04Z",
       "browser_download_url": "https://github.com/ArthurSonzogni/Diagon/releases/download/v1.1.158/diagon-1.1.156-Linux.tar.gz"
